@@ -18,16 +18,23 @@
 # print(type(price))
 
 
-name1="sr"
-name2='srr'
-name3='''srrr'''
-print(name1)
-print(name2)
-print(name3)
+# name1="sr"
+# name2='srr'
+# name3='''srrr'''
+# print(name1)
+# print(name2)
+# print(name3)
 
-a=23
-o=False
-b=None
-print(a);
-print(o);
-print(b);
+# a=23
+# o=False
+# b=None
+# print(a);
+# print(o);
+# print(b);
+
+a=100
+b=50
+add=a+b
+print(add)
+sub=a-b
+print(sub)
