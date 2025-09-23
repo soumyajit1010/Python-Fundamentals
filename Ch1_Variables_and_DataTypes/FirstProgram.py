@@ -32,9 +32,20 @@
 # print(o);
 # print(b);
 
-a=100
-b=50
-add=a+b
-print(add)
-sub=a-b
-print(sub)
+# a=100
+# b=50
+# add=a+b
+# print(add)
+# sub=a-b
+# print(sub)
+
+# A,B=2,3
+# Txt = "@"
+# print(2*Txt*3)
+
+
+print("Hello World");
+# print("Hello World");
+# print("Hello World");
+
+
